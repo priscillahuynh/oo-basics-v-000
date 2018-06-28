@@ -8,7 +8,7 @@ class Shoe
   def cobble
       puts "Your shoe is as good as new!"
 
-      def condition(condition)
+      def condition
         condition == "new"
       end
     end
